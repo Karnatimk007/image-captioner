@@ -1,5 +1,5 @@
 ---
-title: Image Captioner
+title: 🖼️ Image Captioner
 emoji: 🏃
 colorFrom: gray
 colorTo: blue
